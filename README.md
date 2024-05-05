@@ -7,7 +7,7 @@ This Python script retrieves comments from a YouTube video using the YouTube Dat
 - You need to have a Google Cloud Platform (GCP) project with the YouTube Data API v3 enabled. Obtain an API key from the [Google Cloud Console](https://console.cloud.google.com/).
 - Ensure you have NLTK (Natural Language Toolkit) installed. You can install it using `pip install nltk`.
 
-## Code Explanation
+## Code Explanation https://www.youtube.com/watch?v=tRLbQU3TQdQ
 
 ### Imports
 ```python
@@ -17,4 +17,4 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 
 
-https://www.youtube.com/watch?v=tRLbQU3TQdQ
+
