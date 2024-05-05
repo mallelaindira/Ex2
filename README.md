@@ -16,3 +16,5 @@ import googleapiclient.discovery
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 
+
+https://www.youtube.com/watch?v=tRLbQU3TQdQ
